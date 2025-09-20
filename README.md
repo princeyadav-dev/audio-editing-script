@@ -17,3 +17,4 @@ A Python script to automate basic audio editing tasks for video editors, built w
 1. Install dependencies:
 ```bash
 pip install -r requirements.txt
+
